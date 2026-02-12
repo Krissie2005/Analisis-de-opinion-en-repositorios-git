@@ -111,3 +111,8 @@ Abrir Jupyter Notebook o VS Code y ejecutar en orden:
 * 05_temas
 
 * 06_similitud
+
+## 👥 Colaboradores
+
+- [@AarónSolanoRivas](https://github.com/aaron1104052005)
+- [@LeandroLamillaCobeña](https://github.com/leandrolamilla07)
